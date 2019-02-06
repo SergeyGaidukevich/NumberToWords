@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb72040-97da-4142-a0ff-8e6dcaf21cd0" name="Default Changelist" comment="" />
+    <list default="true" id="4eb72040-97da-4142-a0ff-8e6dcaf21cd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/action/ParserNumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/action/ParserNumberToWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/action/ParserNumberToWordsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/action/ParserNumberToWordsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/readerData/ReaderSourceDataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/readerData/ReaderSourceDataTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+            <state relative-caret-position="357">
+              <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/action/ParserNumberToWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            <state relative-caret-position="-1676">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,10 +77,11 @@
         <option value="$PROJECT_DIR$/data/ten_to_twenty.txt" />
         <option value="$PROJECT_DIR$/data/tens.txt" />
         <option value="$PROJECT_DIR$/data/units.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java" />
         <option value="$PROJECT_DIR$/data/forms.txt" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/action/ParserNumberToWords.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsData.java" />
         <option value="$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java" />
       </list>
     </option>
@@ -96,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,20 +170,30 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="action" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="readerData" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549436693499" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549443994854" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -198,29 +216,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParserNumberToWords">
-    <configuration name="ParserNumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWords" />
-      <module name="Parse string" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="action.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in Parse string" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Parse string" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParserNumberToWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ParserNumberToWordsTest">
+    <configuration name="ParserNumberToWordsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Parse string" />
       <extension name="coverage">
         <pattern>
@@ -230,12 +227,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="action" />
       <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParserNumberToWordsTest.parseNotNuxxmberStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParserNumberToWordsTest.parseFractionalNumberTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Parse string" />
       <extension name="coverage">
         <pattern>
@@ -245,13 +243,15 @@
       </extension>
       <option name="PACKAGE_NAME" value="action" />
       <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
-      <option name="METHOD_NAME" value="parseNotNuxxmberStringTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="METHOD_NAME" value="parseFractionalNumberTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParserNumberToWordsTest.parseNotPositiveNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParserNumberToWordsTest.parseNumberAllTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Parse string" />
       <extension name="coverage">
         <pattern>
@@ -261,19 +261,57 @@
       </extension>
       <option name="PACKAGE_NAME" value="action" />
       <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
-      <option name="METHOD_NAME" value="parseNotPositiveNumberTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="METHOD_NAME" value="parseNumberAllTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserNumberToWordsTest.parseNumbersUnitTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Parse string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="action" />
+      <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
+      <option name="METHOD_NAME" value="parseNumbersUnitTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserNumberToWordsTest.testParallelData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Parse string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="action" />
+      <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
+      <option name="METHOD_NAME" value="testParallelData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParserNumberToWords" />
-        <item itemvalue="JUnit.All in Parse string" />
-        <item itemvalue="JUnit.ParserNumberToWordsTest" />
-        <item itemvalue="JUnit.ParserNumberToWordsTest.parseNotPositiveNumberTest" />
-        <item itemvalue="JUnit.ParserNumberToWordsTest.parseNotNuxxmberStringTest" />
+        <item itemvalue="TestNG.ParserNumberToWordsTest" />
+        <item itemvalue="TestNG.ParserNumberToWordsTest.parseFractionalNumberTest" />
+        <item itemvalue="TestNG.ParserNumberToWordsTest.parseNumberAllTest" />
+        <item itemvalue="TestNG.ParserNumberToWordsTest.testParallelData" />
+        <item itemvalue="TestNG.ParserNumberToWordsTest.parseNumbersUnitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -295,6 +333,7 @@
       <workItem from="1549401690237" duration="10028000" />
       <workItem from="1549414368254" duration="1030000" />
       <workItem from="1549415476311" duration="1536000" />
+      <workItem from="1549436584583" duration="6069000" />
     </task>
     <task id="LOCAL-00001" summary="fix about one assert">
       <created>1549407850874</created>
@@ -342,39 +381,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ParserNumberToWordsTest_testGetNameAllTable - 2019.02.06 at 02h 38m 47s.xml">
-      <configuration name="ParserNumberToWordsTest.testGetNameAllTable" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 11h 45m 38s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest_testGetNameAllTable - 2019.02.06 at 02h 39m 29s.xml">
-      <configuration name="ParserNumberToWordsTest.testGetNameAllTable" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 11h 45m 44s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest_testGetNameAllTable - 2019.02.06 at 02h 45m 18s.xml">
-      <configuration name="ParserNumberToWordsTest.testGetNameAllTable" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 11h 47m 14s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest_parserNullNumberTest - 2019.02.06 at 03h 27m 04s.xml">
-      <configuration name="ParserNumberToWordsTest.parserNullNumberTest" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 11h 47m 45s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest_parseNotNumberStringTest - 2019.02.06 at 03h 29m 52s.xml">
-      <configuration name="ParserNumberToWordsTest.parseNotNumberStringTest" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 11h 49m 33s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest_parseNotNuxxmberStringTest - 2019.02.06 at 03h 32m 10s.xml">
-      <configuration name="ParserNumberToWordsTest.parseNotNuxxmberStringTest" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 11h 59m 01s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest_parseNotNuxxmberStringTest - 2019.02.06 at 03h 32m 28s.xml">
-      <configuration name="ParserNumberToWordsTest.parseNotNuxxmberStringTest" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 12h 00m 27s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest_parseNotPositiveNumberTest - 2019.02.06 at 03h 36m 25s.xml">
-      <configuration name="ParserNumberToWordsTest.parseNotPositiveNumberTest" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 12h 01m 23s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest - 2019.02.06 at 03h 36m 34s.xml">
-      <configuration name="ParserNumberToWordsTest" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest_parseNumberAllTest - 2019.02.06 at 12h 02m 29s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNumberAllTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserNumberToWordsTest - 2019.02.06 at 04h 28m 17s.xml">
-      <configuration name="ParserNumberToWordsTest" configurationId="JUnit" />
+    <history-entry file="ParserNumberToWordsTest - 2019.02.06 at 12h 02m 44s.xml">
+      <configuration name="ParserNumberToWordsTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75376000" />
+    <option name="totallyTimeSpent" value="81445000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,7 +428,7 @@
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2758389" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27986577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +438,7 @@
       <window_info id="Repositories" order="7" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.19774011" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.19774011" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,16 +579,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/111.txt" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/readerSourceData/ReaderSourceData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -557,13 +586,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
@@ -619,10 +641,65 @@
         <state relative-caret-position="-2958" />
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="125" column="17" selection-start-line="125" selection-start-column="17" selection-end-line="125" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="906" column="33" selection-start-line="906" selection-start-column="33" selection-end-line="906" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/action/ParserNumberToWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        <state relative-caret-position="-1676">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -631,8 +708,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+        <state relative-caret-position="357">
+          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -696,7 +773,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -716,6 +792,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

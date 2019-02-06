@@ -1,16 +1,18 @@
 package readerData;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 import readerSourceData.ReaderSourceData;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 
-import static org.junit.Assert.assertArrayEquals;
+import static org.testng.internal.junit.ArrayAsserts.assertArrayEquals;
+
 
 public class ReaderSourceDataTest {
     private static final String PATH_TENS_TXT = "data/tens.txt";
@@ -18,14 +20,14 @@ public class ReaderSourceDataTest {
     private final ReaderSourceData reader = new ReaderSourceData();
     private BufferedReader bufferedReader = null;
 
-    @Before
+    @BeforeClass
     public void setUp() throws Exception {
         bufferedReader = new BufferedReader(
                 new InputStreamReader(
-                        new FileInputStream(PATH_TENS_TXT), "UTF8"));
+                        new FileInputStream(PATH_TENS_TXT), StandardCharsets.UTF_8));
     }
 
-    @After
+    @AfterClass
     public void tearDown() throws Exception {
         if (bufferedReader != null) {
             bufferedReader.close();
