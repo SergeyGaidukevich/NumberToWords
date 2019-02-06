@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb72040-97da-4142-a0ff-8e6dcaf21cd0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/action/ParserNumberToWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/entity/Number.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/numbers/Number.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/handbook" />
+        <option value="$PROJECT_DIR$/Parse string.iml" />
+        <option value="$PROJECT_DIR$/data/from_ten_to_twenty.txt" />
+        <option value="$PROJECT_DIR$/data/handbook.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/readerSource/ReaderSourceData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ParserNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/numbers/HunNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/numbers/DecNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action/ParserNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/StringNumberEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/readerSourceData/ReaderSourceData.java" />
+        <option value="$PROJECT_DIR$/data/hundreds.txt" />
+        <option value="$PROJECT_DIR$/data/ten_to_twenty.txt" />
+        <option value="$PROJECT_DIR$/data/tens.txt" />
+        <option value="$PROJECT_DIR$/data/units.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java" />
+        <option value="$PROJECT_DIR$/data/forms.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/action/ParserNumberToWords.java" />
+        <option value="$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1100" />
+    <option name="height" value="1094" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse string" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parse string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549436693499" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\Desktop\Parse string\data\test" />
+      <recent name="C:\Users\Сергей\Desktop\Parse string\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ParserNumberToWords">
+    <configuration name="ParserNumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWords" />
+      <module name="Parse string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Parse string" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parse string" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserNumberToWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parse string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="action" />
+      <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserNumberToWordsTest.parseNotNuxxmberStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parse string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="action" />
+      <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
+      <option name="METHOD_NAME" value="parseNotNuxxmberStringTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserNumberToWordsTest.parseNotPositiveNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parse string" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="action" />
+      <option name="MAIN_CLASS_NAME" value="action.ParserNumberToWordsTest" />
+      <option name="METHOD_NAME" value="parseNotPositiveNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParserNumberToWords" />
+        <item itemvalue="JUnit.All in Parse string" />
+        <item itemvalue="JUnit.ParserNumberToWordsTest" />
+        <item itemvalue="JUnit.ParserNumberToWordsTest.parseNotPositiveNumberTest" />
+        <item itemvalue="JUnit.ParserNumberToWordsTest.parseNotNuxxmberStringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb72040-97da-4142-a0ff-8e6dcaf21cd0" name="Default Changelist" comment="" />
+      <created>1549119883816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549119883816</updated>
+      <workItem from="1549119894830" duration="11701000" />
+      <workItem from="1549219825778" duration="253000" />
+      <workItem from="1549226121277" duration="43656000" />
+      <workItem from="1549307256471" duration="5677000" />
+      <workItem from="1549317599505" duration="1495000" />
+      <workItem from="1549401690237" duration="10028000" />
+      <workItem from="1549414368254" duration="1030000" />
+      <workItem from="1549415476311" duration="1536000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix about one assert">
+      <created>1549407850874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549407850874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix about one assert">
+      <created>1549408381061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549408381061</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add incoming number check and negative tests">
+      <created>1549413730929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549413730929</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add incoming number check and negative tests">
+      <created>1549414544598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549414544598</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add incoming number check and negative tests">
+      <created>1549414863951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549414863951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add incoming number check and negative tests">
+      <created>1549416482582</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549416482582</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ParserNumberToWordsTest_testGetNameAllTable - 2019.02.06 at 02h 38m 47s.xml">
+      <configuration name="ParserNumberToWordsTest.testGetNameAllTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest_testGetNameAllTable - 2019.02.06 at 02h 39m 29s.xml">
+      <configuration name="ParserNumberToWordsTest.testGetNameAllTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest_testGetNameAllTable - 2019.02.06 at 02h 45m 18s.xml">
+      <configuration name="ParserNumberToWordsTest.testGetNameAllTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest_parserNullNumberTest - 2019.02.06 at 03h 27m 04s.xml">
+      <configuration name="ParserNumberToWordsTest.parserNullNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest_parseNotNumberStringTest - 2019.02.06 at 03h 29m 52s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNotNumberStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest_parseNotNuxxmberStringTest - 2019.02.06 at 03h 32m 10s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNotNuxxmberStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest_parseNotNuxxmberStringTest - 2019.02.06 at 03h 32m 28s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNotNuxxmberStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest_parseNotPositiveNumberTest - 2019.02.06 at 03h 36m 25s.xml">
+      <configuration name="ParserNumberToWordsTest.parseNotPositiveNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest - 2019.02.06 at 03h 36m 34s.xml">
+      <configuration name="ParserNumberToWordsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserNumberToWordsTest - 2019.02.06 at 04h 28m 17s.xml">
+      <configuration name="ParserNumberToWordsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75376000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2758389" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Repositories" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.19774011" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.3997175" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32909605" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49463087" weight="0.32909605" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4986577" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5053691" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4986577" weight="0.32909605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19774011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32909605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="fix about one assert" />
+    <MESSAGE value="incoming number check" />
+    <MESSAGE value="add incoming number check and negative tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="add incoming number check and negative tests" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/classes/handbook.txt" />
+    <entry file="file://$PROJECT_DIR$/Parse string.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/numbers/DecNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/numbers/HunNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/numbers/Number.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/StringNumberEntry.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="100" column="11" selection-start-line="100" selection-start-column="11" selection-end-line="100" selection-end-column="11" />
+          <folding>
+            <element signature="e#3272#3273#0" expanded="true" />
+            <element signature="e#3303#3304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/111.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/readerData/ReaderSourceDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/readerSourceData/ReaderSourceData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/forms.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/units.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tens.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ten_to_twenty.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/hundreds.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/action/ParserNumberToWordsTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-917">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#3567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/action/ParserNumberToWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/action/ParserNumberToWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Parse string</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
