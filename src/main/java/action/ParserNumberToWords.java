@@ -4,7 +4,6 @@ import org.apache.commons.lang3.math.NumberUtils;
 import readerSourceData.ReaderSourceData;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class ParserNumberToWords {
     private static final String PATH_UNITS_TXT = "data/units.txt";
@@ -14,18 +13,17 @@ public class ParserNumberToWords {
     private static final String PATH_FORMS_TXT = "data/forms.txt";
     private ReaderSourceData reader = new ReaderSourceData();
 
-    public List<String> parse(String... numbers) {
-        List<String> stringNumberEntries = new ArrayList<>();
-        for (String number : numbers) {
-            if (NumberUtils.isDigits(number)) {
-                stringNumberEntries.add(parse(new StringBuilder(number)));
-            } else {
-                stringNumberEntries.add("This string contains not only Unicode numeric: "
-                        + number + ". Please, repeat enter.");
-            }
-        }
+    public static void main(String[] args) {
+        System.out.println(new ReaderSourceData().readingSourceDataInTwoDimenArray(PATH_UNITS_TXT).length);
+        System.out.println(new ParserNumberToWords().parse("2006456498451984561"));
+    }
 
-        return stringNumberEntries;
+    public String parse(String number) {
+        if (NumberUtils.isDigits(number)) {
+            return parse(new StringBuilder(number));
+        } else {
+            return "This string contains not only Unicode numeric: " + number + ". Please, repeat enter.";
+        }
     }
 
     private String parse(StringBuilder number) {
@@ -42,7 +40,7 @@ public class ParserNumberToWords {
             String[] tens = reader.readingSourceDataInOneDimenArray(PATH_TENS_TXT);
             String[][] forms = reader.readingSourceDataInTwoDimenArray(PATH_FORMS_TXT);
 
-            number = normalizeNumber(number);
+            normalizeNumber(number);
 
             ArrayList<Integer> segments = new ArrayList<>();
             segmented(segments, number);
@@ -102,7 +100,7 @@ public class ParserNumberToWords {
 
     private StringBuilder normalizeNumber(StringBuilder number) {
         for (int i = 0; i < number.length() % 3; i++) {
-            number = new StringBuilder("0").append(number);
+            number.insert(0, '0');
         }
 
         return number;

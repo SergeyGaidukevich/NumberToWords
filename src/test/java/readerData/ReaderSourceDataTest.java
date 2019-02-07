@@ -14,6 +14,7 @@ import java.util.Arrays;
 import static org.testng.internal.junit.ArrayAsserts.assertArrayEquals;
 
 
+
 public class ReaderSourceDataTest {
     private static final String PATH_TENS_TXT = "data/tens.txt";
     private static final String PATH_UNITS_TXT = "data/units.txt";
@@ -41,8 +42,8 @@ public class ReaderSourceDataTest {
                 "семьдесят", "восемьдесят", "девяносто"};
         String[] actualTens = reader.readingSourceDataInOneDimenArray(PATH_TENS_TXT);
 
-        assertArrayEquals("test failed for ReaderSourceDataTest() : " + Arrays.toString(actualTens)
-                + " ", expendedTens, actualTens);
+        assertArrayEquals("test failed for readingSourceDataInOneDimenArray() : " + Arrays.toString(actualTens),
+                expendedTens, actualTens);
     }
 
     @Test
@@ -53,10 +54,8 @@ public class ReaderSourceDataTest {
         };
         String[][] actualTens = reader.readingSourceDataInTwoDimenArray(PATH_UNITS_TXT);
 
-        assertArrayEquals("test failed for ReaderSourceDataTest() : " + Arrays.toString(actualTens)
-                + " ", expendedTens[0], actualTens[0]);
-        assertArrayEquals("test failed for ReaderSourceDataTest() : " + Arrays.toString(actualTens)
-                + " ", expendedTens[1], actualTens[1]);
+        assertArrayEquals("test failed for readingSourceDataInTwoDimenArray() : " + Arrays.toString(actualTens)
+                , expendedTens, actualTens);
     }
 
 }
