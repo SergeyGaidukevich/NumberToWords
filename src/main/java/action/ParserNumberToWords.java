@@ -11,6 +11,7 @@ public class ParserNumberToWords {
     private static final String PATH_TEN_TO_TWENTY_TXT = "data/ten_to_twenty.txt";
     private static final String PATH_TENS_TXT = "data/tens.txt";
     private static final String PATH_FORMS_TXT = "data/forms.txt";
+    private static final String ZERO = "ноль";
     private ReaderSourceData reader = new ReaderSourceData();
 
     public static void main(String[] args) {
@@ -27,12 +28,8 @@ public class ParserNumberToWords {
     }
 
     private String parse(StringBuilder number) {
-        StringBuilder stringNumberEntry = new StringBuilder();
-
         if (number.toString().equals("0")) {
-            stringNumberEntry = new StringBuilder("ноль");
-
-            return stringNumberEntry.toString();
+            return ZERO;
         } else {
             String[][] units = reader.readingSourceDataInTwoDimenArray(PATH_UNITS_TXT);
             String[] hundreds = reader.readingSourceDataInOneDimenArray(PATH_HUNDREDS_TXT);
@@ -45,6 +42,7 @@ public class ParserNumberToWords {
             ArrayList<Integer> segments = new ArrayList<>();
             segmented(segments, number);
 
+            StringBuilder stringNumberEntry = new StringBuilder();
             int currentSegmentOrder = segments.size() - 1;
             for (Integer segment : segments) {
                 int segmentOrder;
