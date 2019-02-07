@@ -71,7 +71,7 @@ public class ParserNumberToWordsTest extends Assert {
     @Test
     public void parseNullNumberTest() {
         String expected = "This string contains not only Unicode numeric: null. Please, repeat enter.";
-        String actual = parser.parse( null);
+        String actual = parser.parse(null);
 
         assertEquals(actual, expected, ERROR_IN_NUMBER + actual);
     }
